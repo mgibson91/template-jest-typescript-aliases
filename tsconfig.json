@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "es5",
+    "sourceMap": true,
+    "baseUrl": "/home/matt/WebstormProjects/ava-alias-test/",
+    "paths": {
+      "lib/*": ["dir-a/lib/*"]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
