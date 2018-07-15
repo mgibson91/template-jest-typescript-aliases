@@ -1,16 +1,8 @@
 {
   "devDependencies": {
-    "@ava/babel-preset-stage-4": "^1.1.0",
-    "@babel/code-frame": "^7.0.0-beta.53",
     "@types/jest": "^23.1.6",
-    "ava": "^0.25.0",
-    "ava-ts": "^0.24.6",
-    "babel-plugin-module-resolver": "^3.1.1",
-    "babel-plugin-transform-runtime": "^6.23.0",
-    "babel-plugin-webpack-alias": "^2.1.2",
     "jest": "^23.4.1",
     "ts-jest": "^23.0.0",
-    "ts-node": "^7.0.0",
     "typescript": "^2.9.2"
   },
   "ava": {
